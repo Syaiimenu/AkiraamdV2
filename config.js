@@ -15,30 +15,30 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['6285850539404'] //ur owner number
-global.ownername = "Jarot Offc" //ur owner name
-global.developer = "Jarot Offc" //nama lu
-global.ytname = "YT: Jarot offc" //ur yt chanel name
+global.ownername = "Bang syaii" //ur owner name
+global.developer = "Bang syaii" //nama lu
+global.ytname = "YT: Bang syaii" //ur yt chanel name
 global.socialm = "https://instagram.com/jarotr_" //ur github or insta name
 global.sgc = "https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"
 global.location = "Jatim" //ur location
 
 //bot bomdy 
-global.owner = ['6285850539404'] //ur number
-global.ownernomer = "6285850539404" //ur number
-global.ownertag = '6285850539404' //ur tag number
-global.premium = ['6285850539404'] //ur premium number
-global.botname = '𝘖𝘴𝘤𝘢𝘳-𝘔𝘥' //ur bot name
-global.ownername = "𝘑𝘢𝘳𝘰𝘵 𝘖𝘧𝘧𝘤"
+global.owner = ['6283842839555'] //ur number
+global.ownernomer = "6283843839555" //ur number
+global.ownertag = '62838428395555' //ur tag number
+global.premium = ['6283842839555'] //ur premium number
+global.botname = 'Akiraa-Md' //ur bot name
+global.ownername = "Bang syaii"
 global.linkz = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //your theme url which will be displayed on whatsapp
-global.dana = "6285850539404"
-global.pulsa = "6285850539404"
+global.dana = "6283842839555"
+global.pulsa = "6283842839555"
 global.websitex = "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ" //ur website to be displayed
 global.websitex1 = "https://youtube.com/shorts/N6cPd_V-IME?feature=share"
 global.botscript = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //script link
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Oscar Bot" //ur sticker watermark author
-global.wm = "Jarot ofc" //ur watermark
+global.packname = "Sticker By " //ur sticker watermark packname
+global.author = "Akiraa  Bot" //ur sticker watermark author
+global.wm = "Bang syaii" //ur watermark
 
 // Other
 global.sessionName = 'Session'
